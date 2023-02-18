@@ -13,8 +13,6 @@ I am currently uploading more of my past projects here. May take a while. Please
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guyoung72&theme=tokyonight" />
-
 ## Experience
 ♻️ **Startup Project - San Jose, CA (Remote)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Business Analyst**<br>
@@ -44,3 +42,5 @@ I am currently uploading more of my past projects here. May take a while. Please
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science in Econometrics & Quantitative Economics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Club Activities: Data Science & Artificial Intelligence Society, Alpha Investment Management Partners, Illini Formula Eletric<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduating in 2022. 12<br>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guyoung72&theme=tokyonight" />
