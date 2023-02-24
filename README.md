@@ -44,3 +44,5 @@ I am currently uploading more of my past projects here. May take a while. Please
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduating in 2022. 12<br>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guyoung72&theme=tokyonight" />
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{guyoung72}1212%2Fhit-counter" />
