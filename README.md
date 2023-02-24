@@ -14,7 +14,7 @@ I am currently uploading more of my past projects here. May take a while. Please
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 
 ## Experience
-♻️ **Startup Project - San Jose, CA (Remote)**<br>
+♻️ **Startup Project - San Jose, CA**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Business Analyst**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 12 - Present
 
