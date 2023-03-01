@@ -1,6 +1,6 @@
 # Welcome to Greyson's Github! 🦜🌴
 
-My name is Greyson and I'm a senior at the University of Illinois (UIUC) studying Econometrics & Quantitative Economics. I'm interested in business analytics & economic research methods. This github contains projects and researches that I've done in the past couple of years.
+My name is Greyson and I'm a recent grad from the University of Illinois (UIUC) studying Econometrics & Quantitative Economics. I'm interested in business analytics & economic research methods. This github contains projects and researches that I've done in the past couple of years.
 
 I am currently uploading more of my past projects here. May take a while. Please take a look at my other projects!
 
@@ -41,7 +41,7 @@ I am currently uploading more of my past projects here. May take a while. Please
 <img src="https://user-images.githubusercontent.com/79275984/218247949-2813cf39-a64c-46aa-b0e6-aaea66e52cf4.png" width="26"> **University of Illinois (UIUC) - Champaign, IL**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science in Econometrics & Quantitative Economics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Club Activities: Data Science & Artificial Intelligence Society, Alpha Investment Management Partners, Illini Formula Eletric<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduating in 2022. 12<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduated in 2022. 12<br>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guyoung72&theme=tokyonight" />
 
