@@ -15,7 +15,7 @@ I am currently uploading more of my past projects here. May take a while. Please
 
 ## Experience
 ♻️ **Startup Project - San Jose, CA**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Business Analyst**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Data Analyst**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 12 - Present
 
 <img src="https://user-images.githubusercontent.com/79275984/218220827-41269060-d467-4eec-93f9-a15a5461a2e6.png" width="25"> **Samsung Electronics - Hwaseong, Korea**<br>
