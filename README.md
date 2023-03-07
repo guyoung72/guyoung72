@@ -20,7 +20,7 @@ I am currently uploading more of my past projects here. May take a while. Please
 
 <img src="https://user-images.githubusercontent.com/79275984/218220827-41269060-d467-4eec-93f9-a15a5461a2e6.png" width="25"> **Samsung Electronics - Hwaseong, Korea**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Market Data Analyst**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 07 - 2022. 08
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 06 - 2022. 08
 
 <img src="https://user-images.githubusercontent.com/79275984/218221656-6282a15e-7f25-46e7-9aa7-83e9cefc7b68.png" width="23"> **Continental AG - Sejong, Korea**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Financial Analyst**<br>
