@@ -2,7 +2,7 @@
 
 My name is Greyson and I'm a recent grad from the University of Illinois (UIUC) studying Econometrics & Quantitative Economics. I'm deeply interested in data analytics & business analytics. This github contains projects and researches that I've done in the past couple of years.
 
-I am currently uploading more of my past projects here. May take a while. Please take a look at my other projects!
+I am currently uploading more of my past projects here. Please take a look at them! (Scroll down to see my pineed repos)
 
 ## Contact Info
 <a href="https://www.linkedin.com/in/greysonkim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
