@@ -1,6 +1,6 @@
 # Welcome to Greyson's Github! 🦜🌴
 
-My name is Greyson and I'm a recent grad from the University of Illinois (UIUC) studying Econometrics & Quantitative Economics. I'm interested in business analytics & economic research methods. This github contains projects and researches that I've done in the past couple of years.
+My name is Greyson and I'm a recent grad from the University of Illinois (UIUC) studying Econometrics & Quantitative Economics. I'm deeply interested in data analytics & business analytics. This github contains projects and researches that I've done in the past couple of years.
 
 I am currently uploading more of my past projects here. May take a while. Please take a look at my other projects!
 
