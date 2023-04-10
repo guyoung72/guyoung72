@@ -82,7 +82,7 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
   - R tidysynth 이용해 공식 설정
   - 원유생산가능 주요국가별 인구, 원유생산량, 1인당 GDP, CPI, 신재생에너지 비율 등을 변수로 지정
   - 가상의 미국 데이터와 실제 미국 데이터를 비교하여 원유생산량 시계열 분석
-  - 2016-2017년 미국 원유생산 붐의 원인은 트럼프의 기후협약 탈퇴 선언보다는 셰일혁명(Shale Revolution)이 원인이 큼을 확인시킴
+  - 2016-2017년 미국 원유생산 붐의 원인은 트럼프의 기후협약 탈퇴 선언보다는 셰일혁명(Shale Revolution)이 큼을 확인시킴
 
 #### 데이터사이언스 학회 활동:
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> **미국 인터넷 커뮤니티 Reddit의 게시판별 트렌드 분석**
