@@ -49,7 +49,8 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
 **[코드 비공개]**
   - Selenium 웹 크롤링을 활용해 Google News 내 특정 키워드 관련 뉴스 텍스트 수집
   - 수집된 텍스트 데이터는 NLTK.Vader를 이용해 자연어 처리 후 감성 분석
-  - 기사 하나하나에 긍정/부정값 산정시킴 (+1: Most positive, 0: Neutral, -1: Most negative)<br><br>
+  - 기사 하나하나에 긍정/부정값 산정시킴 (+1: Most positive, 0: Neutral, -1: Most negative)
+  - 특정 사이트들의 Bot detector를 bypass하기 위해 Selenium bot에게 불규칙적인 마우스 움직임 삽입<br><br>
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> **반도체 시장 Market Sensing 프로젝트**
 **[코드 비공개]**
   - 고객사 관련 영문 기사, 주가, 재무 데이터 수집 및 데이터 전처리
