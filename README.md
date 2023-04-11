@@ -32,7 +32,7 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
 #### 사내 프로젝트:
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> **요일별 광고 타켓팅을 위한 지역별 잠재 수요 예측**
 [**[코드 보기]**](https://github.com/guyoung72/San_Jose_Startup_Business_Analysis)
-  - 캘리포니아 산호세 시의 요일별 고객 이용 트렌드 파악
+  - 캘리포니아 산호세 시 고객들의 요일별 이용 트렌드 파악
   - Boekh와 Google 지도 API를 활용해 잠재 수요를 지도로 시각화
   - CEO가 사용하기 좋은 Bokeh 기반의 인터렉티브 지도 제작
   - 배송 루트 설정과 SNS 광고 타이밍 계산에 사용 예정
