@@ -25,7 +25,7 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016.08 - 2022.12 졸업<br>
 
 ## 경력 및 프로젝트 | Experiences & Projects
-### ♻️ 실리콘밸리 스타트업 (비밀유지) | Stealth Startup<br>
+### ♻️ 실리콘밸리 스타트업 (스텔스) | Stealth Startup<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**데이터 애널리스트**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023.01 - 2023.03
 
