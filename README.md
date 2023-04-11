@@ -88,7 +88,7 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
 #### 데이터사이언스 학회 활동:
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> **미국 인터넷 커뮤니티 Reddit의 게시판별 트렌드 분석**
 [**[코드 보기]**](https://github.com/guyoung72/Political-Sentiment-Analysis_Reddit)
-  - 3백만개에 달하는 댓글과 4천개의 글을 분석하여 인기 게시판 3곳의 데이터 분석 
+  - 3백만 개에 달하는 댓글과 4천 개의 글을 분석하여 인기 게시판 3곳의 데이터 분석 
   - NLP 자연어처리, pandas, seaborn, pyvis, Reddit API 활용
   - Network Analysis와 NLP를 통해 유저 간의 관계 분석
   - 게시판별 인기 키워드 분석
