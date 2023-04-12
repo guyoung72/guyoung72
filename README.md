@@ -106,7 +106,7 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
   - 두 변수 사이 피어슨 상관계수 계산. 높은 상관계수 발견 <br><br>
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> **Yahoo Finance API를 활용한 인터렉티브 주식 차트 생성**
 [**[코드 보기]**](https://github.com/guyoung72/Stock-Interactive-Visualizer)
-  - Yahoo API를 이용한 첫 인터렉티브 차트 제작
+  - Yahoo API를 이용한 인터렉티브 주식 차트 제작
 
 #### 기타 프로젝트:
 - <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> **R Shiny를 이용해 원카드 & UNO 게임 만들기** [**코드 비공개**]
