@@ -78,7 +78,7 @@ Hi! my name is Greyson Kim and I'm a recent graduate from the University of Illi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**계량경제학과 학생**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016.08 - 2022.12<br>
 #### **경제 리서치:**
-- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> **통제집단합성법(Synthetic Control)을 이용한 미국의 파리협정 탈퇴와 셰일혁명(Shale Revolution)의 영향 평가** [**[논문 및 코드 보기]**](https://github.com/guyoung72/Impact-Assessment-of-US-Withdrawl-from-Paris-Agreement)
+- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> **통제집단합성법(Synthetic Control)을 이용한 미국의 파리협정 탈퇴와 셰일혁명(Shale Revolution)의 영향 평가**<br>[**[논문 및 코드 보기]**](https://github.com/guyoung72/Impact-Assessment-of-US-Withdrawl-from-Paris-Agreement)
   - 통제집단합성법(Synthetic Control)을 이용해 기후협약으로부터 탈퇴한 적 없는 가상의 미국 모델 제작
   - R tidysynth 이용해 공식 설정
   - 원유생산가능 주요국가별 인구, 원유생산량, 1인당 GDP, CPI, 신재생에너지 비율 등을 변수로 지정
